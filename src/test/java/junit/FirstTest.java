@@ -55,7 +55,7 @@ public class FirstTest {
         $(".table-responsive").shouldHave(text("Dwarf.jpg"));
         $(".table-responsive").shouldHave(text("Test address!!"));
         $(".table-responsive").shouldHave(text("Haryana Karnal"));
-        sleep(5000);
+
 
     }
 
